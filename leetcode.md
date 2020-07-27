@@ -235,6 +235,8 @@ BFS 通常采用queue 来实现
 
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
+[373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+
 # 13. K路归并
 
 K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
@@ -245,7 +247,7 @@ K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
 
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-[373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 
 # 14. DP 动态规划
@@ -278,11 +280,10 @@ K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
 
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
-[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/)
 
 [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)
 
-[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)[ref](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/39743/Python-DP-solution-120ms) 
+[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)   [ref](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/discuss/39743/Python-DP-solution-120ms) 
 
 [714. Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 
@@ -322,7 +323,7 @@ K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
 [剑指 Offer 60. n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/)
 
 # 15. 排序算法
-[Selection Sorting](#ss)
+[Selection Sort](#ss)
 [Heapsort](#hs)
 [Mergesort](#ms)
 [Insertion Sort](#is)
@@ -380,6 +381,8 @@ K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
 # 21. math
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
+[470. Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)
+
 # 22. array
 [剑指 Offer 66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)
 
@@ -394,6 +397,3 @@ K路归并能帮咱们解决那些涉及到多组排好序的数组的问题。
 [basketwangCoding Youtube link ](https://www.youtube.com/channel/UCE35PnPX7EZi8nHSegjMn6Q)
 
 [剑指offer](https://leetcode-cn.com/problemset/lcof/)
-
-
-
