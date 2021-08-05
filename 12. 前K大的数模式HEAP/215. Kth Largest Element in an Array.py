@@ -1,5 +1,9 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
+        if not nums or len(nums) < k:
+            return 
+        if len(nums)==1:
+            return nums[0]
         # method 1
         # import heapq
         # minq = []
@@ -14,8 +18,6 @@ class Solution:
         # return minq[0]
 
         # partition
-        if len(nums) == 1:
-            return nums[0]
         target_k = len(nums) - k
         start = 0
         end = len(nums)-1
